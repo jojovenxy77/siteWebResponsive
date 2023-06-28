@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    list-style: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;
+    background-image: url(../Essai/Image/5.jpg);
+    position: absolute;
+}
+header{ 
+    padding: 10px;
+    width: 100vw;
+}
+.logo{ 
+    padding-left: 50px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    letter-spacing: 5px;
+    text-size-adjust: 440px;
+}
+.navbar {
+    padding-right: 50px;
+    padding-top: 55px;
+    text-align: left;
+    float: right
+}
+.navbar ul{
+        list-style: none;
+}
+.navbar a {
+    color: black;
+    margin: 10px;
+    text-decoration: double;
+}
